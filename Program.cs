@@ -10,6 +10,8 @@ builder.Services.AddDbContext<AppDbContext>(options =>
     )
 );
 
+builder.Services.AddAutoMapper(typeof(Program));
+
 var app = builder.Build();
 
 app.MapSwagger();
