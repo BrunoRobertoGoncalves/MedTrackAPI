@@ -1,4 +1,4 @@
-using AutoMapper;
+﻿using AutoMapper;
 using MedTrackAPI.DTOs;
 using MedTrackAPI.Models;
 
@@ -8,10 +8,10 @@ namespace MedTrackAPI.Mappings
     {
         public AutoMapperProfile()
         {
+
             CreateMap<CreatePacienteDTO, Paciente>();
 
-            CreateMap<Paciente, CreatePacienteDTO>();
+            CreateMap<Paciente, PacienteDTO>();
         }
-
     }
 }

@@ -31,9 +31,9 @@ namespace MedTrackAPI.Services.Implementations
             return _mapper.Map<PacienteDTO>(paciente); 
         }
 
-        public async Task<PacienteDTO> AdicionarAsync(CreatePacienteDTO novoPaciente)
+        public async Task<PacienteDTO> AdicionarAsync(CreatePacienteDTO dto)
         {
-            var paciente = _mapper.Map<Paciente>(novoPaciente);
+            var paciente = _mapper.Map<Paciente>(dto);
 
             await _repository.AdicionarAsync(paciente);
 
