@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\MedTrackAPI.props" />
-</Project>

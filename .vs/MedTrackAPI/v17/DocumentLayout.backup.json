@@ -86,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 183,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -99,8 +99,15 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-15T14:37:47.715Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
@@ -110,7 +117,7 @@
               "RelativeDocumentMoniker": "C\u009BMedTrackAPI\u009B\\Migrations\\20250715143712_\u009BMedicosDB.Designer.cs",
               "ToolTip": "C:\\Users\\betao\\source\\repos\\MedTrackAPI\\C\u009BMedTrackAPI\u009B\\Migrations\\20250715143712_\u009BMedicosDB.Designer.cs",
               "RelativeToolTip": "C\u009BMedTrackAPI\u009B\\Migrations\\20250715143712_\u009BMedicosDB.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T19:37:01.053Z",
               "EditorCaption": ""
@@ -125,8 +132,7 @@
               "RelativeToolTip": "C\u009BMedTrackAPI\u009B\\Migrations\\20250715143712_\u009BMedicosDB.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAMwCEAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T19:36:58.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T19:36:58.404Z"
             },
             {
               "$type": "Document",
@@ -138,8 +144,7 @@
               "RelativeToolTip": "C\u009BMedTrackAPI\u009B\\Migrations\\20250710182053_\u009BInitial\u009B.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T19:36:54.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T19:36:54.933Z"
             },
             {
               "$type": "Document",
@@ -151,21 +156,19 @@
               "RelativeToolTip": "C\u009BMedTrackAPI\u009B\\Migrations\\20250710182053_\u009BInitial\u009B.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAMwCYAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T19:36:48.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T19:36:48.495Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "\u009BMedTrackAPI\u009B",
+              "Title": "\u009BMedTrackAPI\u009B.csproj",
               "DocumentMoniker": "C:\\Users\\betao\\source\\repos\\MedTrackAPI\\C\u009BMedTrackAPI\u009B\\\u009BMedTrackAPI\u009B.csproj",
               "RelativeDocumentMoniker": "C\u009BMedTrackAPI\u009B\\\u009BMedTrackAPI\u009B.csproj",
               "ToolTip": "C:\\Users\\betao\\source\\repos\\MedTrackAPI\\C\u009BMedTrackAPI\u009B\\\u009BMedTrackAPI\u009B.csproj",
               "RelativeToolTip": "C\u009BMedTrackAPI\u009B\\\u009BMedTrackAPI\u009B.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-21T19:36:38.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T19:36:38.294Z"
             },
             {
               "$type": "Document",
@@ -177,8 +180,7 @@
               "RelativeToolTip": "MedTrackApi.Tests\\ServicesTest\\MedicoServiceTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T19:21:07.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T19:21:07.328Z"
             },
             {
               "$type": "Document",
@@ -190,8 +192,7 @@
               "RelativeToolTip": "MedTrackApi.Tests\\RepositoriesTest\\PacienteRepositoryTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T19:26:13.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T19:26:13.546Z"
             },
             {
               "$type": "Document",
@@ -203,16 +204,7 @@
               "RelativeToolTip": "MedTrackApi.Tests\\RepositoriesTest\\MedicoRepositoryTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T19:26:06.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "WhenOpened": "2025-07-21T19:26:06.324Z"
             },
             {
               "$type": "Document",
@@ -224,21 +216,19 @@
               "RelativeToolTip": "MedTrackApi.Tests\\ServicesTest\\PacienteServiceTest.cs",
               "ViewState": "AgIAAGUAAAAAAAAAAAAuwGsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T18:13:01.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T18:13:01.399Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "MedTrackApi.Tests",
+              "Title": "MedTrackApi.Tests.csproj",
               "DocumentMoniker": "C:\\Users\\betao\\source\\repos\\MedTrackAPI\\MedTrackApi.Tests\\MedTrackApi.Tests.csproj",
               "RelativeDocumentMoniker": "MedTrackApi.Tests\\MedTrackApi.Tests.csproj",
               "ToolTip": "C:\\Users\\betao\\source\\repos\\MedTrackAPI\\MedTrackApi.Tests\\MedTrackApi.Tests.csproj",
               "RelativeToolTip": "MedTrackApi.Tests\\MedTrackApi.Tests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAIwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-21T17:33:15.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T17:33:15.427Z"
             },
             {
               "$type": "Document",
@@ -250,8 +240,7 @@
               "RelativeToolTip": "C\u009BMedTrackAPI\u009B\\Services\\Interfaces\\IMedicoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T15:16:51.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T15:16:51.082Z"
             },
             {
               "$type": "Document",
@@ -263,8 +252,7 @@
               "RelativeToolTip": "C\u009BMedTrackAPI\u009B\\Services\\Interfaces\\IPacienteService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T14:34:34.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T14:34:34.797Z"
             },
             {
               "$type": "Document",
@@ -276,8 +264,7 @@
               "RelativeToolTip": "C\u009BMedTrackAPI\u009B\\Program.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T14:18:37.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T14:18:37.191Z"
             },
             {
               "$type": "Document",
