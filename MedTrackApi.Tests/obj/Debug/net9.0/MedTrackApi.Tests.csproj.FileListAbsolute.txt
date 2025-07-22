@@ -129,3 +129,4 @@ C:\Users\betao\source\repos\MedTrackAPI\MedTrackApi.Tests\obj\Debug\net9.0\refin
 C:\Users\betao\source\repos\MedTrackAPI\MedTrackApi.Tests\obj\Debug\net9.0\MedTrackApi.Tests.pdb
 C:\Users\betao\source\repos\MedTrackAPI\MedTrackApi.Tests\obj\Debug\net9.0\MedTrackApi.Tests.genruntimeconfig.cache
 C:\Users\betao\source\repos\MedTrackAPI\MedTrackApi.Tests\obj\Debug\net9.0\ref\MedTrackApi.Tests.dll
+C:\Users\betao\source\repos\MedTrackAPI\MedTrackApi.Tests\obj\Debug\net9.0\MedTrackApi.Tests.sourcelink.json

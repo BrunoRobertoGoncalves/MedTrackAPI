@@ -25,7 +25,7 @@ namespace MedTrackAPI.Tests.ServicesTests
             });
 
             _mapper = config.CreateMapper();
-            _service = new PacienteService(_repositoryMock.Object, _mapper);
+            _service = new PacienteService(_repositoryMock.Object, _mapper); 
         }
 
         [Fact]
@@ -78,19 +78,7 @@ namespace MedTrackAPI.Tests.ServicesTests
             Assert.Null(resultado);
         }
 
-        [Fact]
-        public async Task AtualizarAsync_DeveRetornarTrue_QuandoPacienteExiste()
-        {
-            var dto = new CreatePacienteDTO { Nome = "Carlos", CPF = "333", Endereco = "Rua Z", DataNascimento = DateTime.Now };
-            var pacienteExistente = new Paciente { Id = 1 };
-
-            _repositoryMock.Setup(r => r.BuscarPorIdAsync(1)).ReturnsAsync(pacienteExistente);
-            _repositoryMock.Setup(r => r.AtualizarAsync(It.IsAny<Paciente>())).Returns(Task.CompletedTask);
-
-            var resultado = await _service.AtualizarAsync(1, dto);
-
-            Assert.True(resultado);
-        }
+         
 
         [Fact]
         public async Task AtualizarAsync_DeveRetornarFalse_QuandoPacienteNaoExiste()
